@@ -9,11 +9,12 @@ Proposed Changes for 1.3
  
 ===================================================
 Changelog
+```
 Key:
 
-   Addition to pack     +
-   Removal from pack    -
-   Updated mod          *
+    + Addition to pack     
+    - Removal from pack    
+    * Updated mod          
 
 1.2 (Not Recomended yet)
 
@@ -158,3 +159,4 @@ Key:
     + Weather Mod 1.591
     + Wireless Redstone Chicken Bones Edition 1.4.0.7
     + Zan's Minimap 1.6.4
+```
