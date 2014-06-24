@@ -1,11 +1,12 @@
 UnknownCraftOfficial
 ====================
 Proposed Changes for 1.3
+```
  Replace Redstone in Motion with Remain in Motion
  Add "Random Things"
  Add Ender IO
  Add Mekanism
- 
+``` 
  
 ===================================================
 Changelog
