@@ -6,21 +6,21 @@ Proposed Changes for 1.3
  Add "Random Things"
  Add Ender IO
  Add Mekanism
-``` 
- 
+```
+
+
+
 
 
 
 Changelog
 ```
 Key:
-
     + Addition to pack     
     - Removal from pack    
     * Updated mod          
 
-1.2 (Not Recomended yet)
-
+1.2 
     - Gas Craft 2.0.4.4
     - Dynamic Tanks 2 0.0.8a
     - Dimensional Doors 2.2.3.336
@@ -35,8 +35,8 @@ Key:
     + AromaDimension 1.0.1.5
     + JVM launch arguments for better running.
     + Solder API support
-1.1
 
+1.1
     - qCraft 1.1
     - Backpacks 1.28.37
     + Dungeon Mobs 3.0.4 
@@ -61,8 +61,8 @@ Key:
     + Morpheus 1.2.32
     + TiC Tweeks 1.0.2
     + Sort Fix 1.0
-1.0
 
+1.0
     + Armor Status HUD 1.15
     + Damage Indicators 2.9.2.4
     + Agriculture 1.2.13
