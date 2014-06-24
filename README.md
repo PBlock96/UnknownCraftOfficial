@@ -15,6 +15,7 @@ Key:
 *      Updated mod
 
 1.2 (Not Recomended yet)
+
     - Gas Craft 2.0.4.4
     - Dynamic Tanks 2 0.0.8a
     - Dimensional Doors 2.2.3.336
@@ -30,6 +31,7 @@ Key:
     + JVM launch arguments for better running.
     + Solder API support
 1.1
+
     - qCraft 1.1
     - Backpacks 1.28.37
     + Dungeon Mobs 3.0.4 
@@ -55,6 +57,7 @@ Key:
     + TiC Tweeks 1.0.2
     + Sort Fix 1.0
 1.0
+
     + Armor Status HUD 1.15
     + Damage Indicators 2.9.2.4
     + Agriculture 1.2.13
