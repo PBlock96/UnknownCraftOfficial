@@ -6,6 +6,7 @@ Proposed Changes for 1.3
  Add "Random Things"
  Add Ender IO
  Add Mekanism
+ Update Project Red
 ```
 
 
