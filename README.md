@@ -19,7 +19,11 @@ Changelog
 Key:
     + Addition to pack     
     - Removal from pack    
-    * Updated mod          
+    * Updated mod    
+    ~ Fix
+    
+1.2.1
+    ~ Ars Magica 2 florb conflict 
 
 1.2 
     - Gas Craft 2.0.4.4
